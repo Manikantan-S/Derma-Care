@@ -44,4 +44,3 @@ Data Management: Pandas and NumPy for managing and manipulating data.
 
 Image Processing: OpenCV - essential for working with dermatology images.
 ```
-```
